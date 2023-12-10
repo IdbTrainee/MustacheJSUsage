@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "cdnjs",
+      "library": "mustache.js@4.2.0",
+      "destination": "wwwroot/lib/mustache.js/"
+    }
+  ,
+{
+  "provider": "cdnjs",
+  "library": "knockout@3.5.1",
+  "destination": "wwwroot/lib/knockout/",
+  "files": [
+    "knockout-latest.js"
+  ]
+}
+]
+}
